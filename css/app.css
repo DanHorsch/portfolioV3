@@ -1,0 +1,13 @@
+/*
+ * GENERAL
+ */
+html, body, h1, h2, h3, h4, h5, h6, p {
+  margin: 0px auto;
+  padding: 0px;
+  line-height: 100%; }
+
+body {
+  min-height: 100vh;
+  background-color: grey; }
+
+/*# sourceMappingURL=app.css.map */
